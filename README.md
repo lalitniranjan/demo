@@ -1,4 +1,4 @@
 # demo
 This is a demo repo
 <br>
-Author - Lalit kumar
+Author - Lalit  niranjan kumar 
